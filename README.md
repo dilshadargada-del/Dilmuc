@@ -1,6 +1,6 @@
 # Dilmus
 offline mode, and money earning features.  Hindi + English mix (easy style): DilMus - Ek powerful music app jisme aapko milta hai online + offline music, high-tech features al
-# 🎵 DilMus App
+# 🎵 DilMus Ap
 
 DilMus is a **next generation music app** designed for both **Android & iOS**.  
 It combines **high-tech music streaming, offline playback, and money earning features** into one powerful platform.
